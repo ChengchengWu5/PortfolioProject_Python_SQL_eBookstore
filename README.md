@@ -6,4 +6,5 @@
 - delete books from the database
 - search the database to find specific books
 
-
+### Python version:
+- 3.11.6
